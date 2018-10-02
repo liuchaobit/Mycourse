@@ -1,4 +1,4 @@
-![GMU](images/gmu.jpg)
+![GMU](image/GMU.jpg)
 
 ## 我的课程
 - 自动控制原理
