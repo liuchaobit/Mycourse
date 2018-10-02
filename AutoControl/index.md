@@ -22,15 +22,22 @@
 
 ---
 
-### 课程参考资料
+### 课程作业
+
+---
+
+### 参考资料
 
 [1] 胡寿松. 自动控制原理(第六版)[M]. 科学出版社, 2018.
 
 [2] 胡寿松. 自动控制原理题海与考研指导[M]. 科学出版社, 2018.
 
+[3] Åström K J. Control system design lecture notes for me 155a[J]. Department of Mechanical and Environmental Engineering University of California Santa Barbara, 2002: 333.
+
+[4] Aström K J, Murray R M. Feedback systems: an introduction for scientists and engineers[M]. Princeton university press, 2010.
+
+[5] 金观涛, 华国凡. 控制论与科学方法论[M]. 新星出版社, 2005.
 
 ---
 
-### 课程作业
 
----
