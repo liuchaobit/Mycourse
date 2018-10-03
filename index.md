@@ -1,4 +1,4 @@
-![GMU](image/GMU.jpg)
+![GMU](image/banner.png)
 
 ### 我的课程
 
