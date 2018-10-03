@@ -37,13 +37,21 @@
 ### 文献检索常用网址
 
 [1] 百度学术   
+
 [2] 谷歌学术 
+
 [3] 中国知网（CNKI） 
+
 [4] 万方 
+
 [5] Engineering Village (EI) 
+
 [6] Web of Science (SCI/ISI) 
+
 [7] IEEE Xplore 
+
 [8] ScienceDirect 
+
 [9] AIAA 
 
 
