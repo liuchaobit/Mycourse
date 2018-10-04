@@ -40,21 +40,21 @@
 
 [1] 百度学术   http://xueshu.baidu.com/
 
-[2] 谷歌学术 
+[2] 谷歌学术 https://scholar.google.com
 
-[3] 中国知网（CNKI） 
+[3] 中国知网（CNKI） http://cnki.net/
 
-[4] 万方 
+[4] 万方 http://www.wanfangdata.com.cn
 
-[5] Engineering Village (EI) 
+[5] Engineering Village (EI) https://www.engineeringvillage.com/
 
-[6] Web of Science (SCI/ISI) 
+[6] Web of Science (SCI/ISI) http://www.webofknowledge.com 
 
-[7] IEEE Xplore 
+[7] IEEE Xplore https://ieeexplore.ieee.org 
 
-[8] ScienceDirect 
+[8] ScienceDirect http://www.sciencedirect.com 
 
-[9] AIAA 
+[9] AIAA http://arc.aiaa.org 
 
 
 ---
