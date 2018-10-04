@@ -32,6 +32,21 @@
 
 ### 参考资料
 
-[1] 侯刘胜，张兰勇. 自动化专业导论[M]. 哈尔滨工程大学大学出版社, 2017
+[1] 刘胜，张兰勇. 自动化专业导论[M]. 哈尔滨工程大学大学出版社, 2017
+
+---
+
+### 扩展资料
+
+[1] [东南大学公开课：自动化专业导论](http://open.163.com/special/cuvocw/zidonghuadaolun.html).
+
+[2] [西安交通大学公开课：自动化专业导论](http://open.163.com/special/cuvocw/zidonghuazhuanye.html)
+
+[3] [知乎-自动化到底是干什么的？]（https://zhuanlan.zhihu.com/p/24199406）
+
+[4] [知乎-自动化专业出身的你现在在做什么？]（https://www.zhihu.com/question/40034082）
+
+[5] [知乎-自动化专业的路该怎么走？]（https://www.zhihu.com/question/67928448）
+
 
 ---
