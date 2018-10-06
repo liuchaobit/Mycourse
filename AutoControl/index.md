@@ -25,8 +25,7 @@
 ### 课程资料
 
 
-
-[1] [灵敏度与补灵敏度](Materials/performance of Feedback system.pdf)
+[1] [灵敏度与补灵敏度]( Materials/performance of Feedback system.pdf )
 
 
 ---
