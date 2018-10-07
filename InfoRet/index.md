@@ -40,23 +40,23 @@
 
 ### 文献检索常用网址
 
-[1] 百度学术   http://xueshu.baidu.com/
+[1] 百度学术   [http://xueshu.baidu.com/](http://xueshu.baidu.com/)
 
-[2] 谷歌学术 https://scholar.google.com
+[2] 谷歌学术 [https://scholar.google.com](https://scholar.google.com)
 
-[3] 中国知网（CNKI） http://cnki.net/
+[3] 中国知网（CNKI） [http://cnki.net/](http://cnki.net/)
 
-[4] 万方 http://www.wanfangdata.com.cn
+[4] 万方 [http://www.wanfangdata.com.cn](http://www.wanfangdata.com.cn)
 
-[5] Engineering Village (EI) https://www.engineeringvillage.com/
+[5] Engineering Village (EI) [https://www.engineeringvillage.com/](https://www.engineeringvillage.com/)
 
-[6] Web of Science (SCI/ISI) http://www.webofknowledge.com 
+[6] Web of Science (SCI/ISI) [http://www.webofknowledge.com ](http://www.webofknowledge.com)
 
-[7] IEEE Xplore https://ieeexplore.ieee.org 
+[7] IEEE Xplore [https://ieeexplore.ieee.org ](https://ieeexplore.ieee.org)
 
-[8] ScienceDirect http://www.sciencedirect.com 
+[8] ScienceDirect [http://www.sciencedirect.com ](http://www.sciencedirect.com)
 
-[9] AIAA http://arc.aiaa.org 
+[9] AIAA [http://arc.aiaa.org](http://arc.aiaa.org) 
 
 
 ---
