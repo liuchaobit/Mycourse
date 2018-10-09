@@ -39,5 +39,7 @@
 ### 扩展资料
 
 [1] [天津大学公开课：测控的奥妙](http://open.163.com/special/cuvocw/cekongaomi.html)
+
 [2] [测控技术与仪器的主要就业方向和领域发展方向有哪些?](https://www.zhihu.com/question/20090395)
+
 [3] [测控技术与仪器专业和自动化专业有何不同?](https://www.zhihu.com/question/276041425)
