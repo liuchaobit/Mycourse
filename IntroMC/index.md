@@ -24,6 +24,8 @@
 
 ### 课程资料
 
+[1] [Your College Degree is Worthless](http://www.liuchaos.cn/Mycourse/ItroAC/Materials/Your_College_Degree_is_Worthless.pdf)
+
 ---
 
 ### 课程作业
