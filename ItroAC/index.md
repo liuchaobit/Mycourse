@@ -24,6 +24,8 @@
 
 ### 课程资料
 
+[1] [Your College Degree is Worthless](Materils/Your College Degree is Worthless.pdf)
+
 ---
 
 ### 课程作业
