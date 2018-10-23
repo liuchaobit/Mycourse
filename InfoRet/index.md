@@ -26,6 +26,8 @@
 
 [1] [参考文献格式及文献类型标识](Materials/参考文献的格式.pdf).
 
+[2] [百度选题助手的使用方法](Materials/xuantizhushou.pdf)
+
 ---
 
 ### 课程作业
