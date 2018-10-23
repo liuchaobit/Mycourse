@@ -27,6 +27,8 @@
 
 [1] [补充材料——灵敏度与补灵敏度](Materials/Performance_of_Feedback_system.pdf )
 
+[2] [补充材料——拉普拉斯变换](Materials/Laplace_Transform.pdf)
+
 
 ---
 
@@ -35,6 +37,8 @@
  [小组项目一：系统建模与时域分析](Homework/Teamwork_01.md) (15分)
  
  [课程作业模板](Materials/课程作业模板.doc)
+ 
+ [课堂练习一：传递函数与稳态误差](Homework/AC_Quiz_1.pdf)
  
 ---
 
