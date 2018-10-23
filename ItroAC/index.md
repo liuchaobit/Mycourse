@@ -26,6 +26,8 @@
 
 [1] [Your College Degree is Worthless](Materials/Your_College_Degree_is_Worthless.pdf)
 
+[2] [我国古代自动装置的原理分析及其成就的探讨](Materials/On_certai_automatic_equipments_in_ancient_china.pdf)
+
 ---
 
 ### 课程作业
