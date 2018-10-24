@@ -38,7 +38,7 @@
  
  [课程作业模板](Materials/课程作业模板.doc)
  
- [课堂练习一：传递函数与稳态误差](Homework/AC_Quiz_1.pdf)
+ [平时作业一：传递函数与稳态误差](Homework/AC_Quiz_1.pdf) （5分）
  
 ---
 
