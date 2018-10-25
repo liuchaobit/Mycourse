@@ -29,6 +29,8 @@
 
 [2] [补充材料——拉普拉斯变换](Materials/Laplace_Transform.pdf)
 
+[3] [课件——习题课资料I](Materials/AC_exercise_1.pdf)
+
 
 ---
 
