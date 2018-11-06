@@ -13,7 +13,7 @@
 ---
 ## 选题流程
 
-![选题流程](/images/Cflow.jpg)
+![选题流程](images/Cflow.jpg)
 
 ---
 
