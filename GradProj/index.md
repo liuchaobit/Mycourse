@@ -4,7 +4,7 @@
 
 ---
 
-## [选题系统](https://bs.liuchaos.cn/)
+## [毕设选题系统](https://bs.liuchaos.cn/)
 
 ---
 
