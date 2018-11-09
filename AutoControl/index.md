@@ -46,7 +46,7 @@
 
 ### 课程讨论
 
- [讨论1:](TalkTopic/Topic_01.md) 
+ [讨论1:根轨迹及其性质](TalkTopic/Topic_01.md) 
 
 ---
 
