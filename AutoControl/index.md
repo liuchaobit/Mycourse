@@ -31,6 +31,8 @@
 
 [3] [课件——习题课资料I](Materials/AC_exercise_1.pdf)
 
+[4] [补充材料——根轨迹的分离点的几种求法](Materials/根轨迹的分离点的几种求法.pdf)
+
 
 ---
 
