@@ -9,10 +9,7 @@
 ---
 **内容：**
 
-{% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
- {% endraw %}
-
+已知某一系统的开环传递函数为%G(s)=435\frac{s+10}{s^{3}+154s^{2}+629s+4350} %
 
 
 ---
