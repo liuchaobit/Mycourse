@@ -15,7 +15,7 @@
 
 <img src="http://www.liuchaos.cn/Mycourse/AutoControl/Homework/PIC/%E8%B5%B7%E9%87%8D%E6%9C%BA.png" width=200 height=200 />
 
-其中，$F$为控制作用力，$x$为起重小车移动的距离；$\theta$为重物摆动产生的摆角。连接起重小车与中午到绳索长度为$l$。质量为$m_{2}$
+其中，$$F$$为控制作用力，$$x$$为起重小车移动的距离；$\theta$为重物摆动产生的摆角。连接起重小车与中午到绳索长度为$l$。质量为$m_{2}$
 
 ---
 
