@@ -46,6 +46,8 @@
  
  [重修——课程综合设计](http://www.liuchaos.cn/Mycourse/AutoControl/Homework/Final_work01.html) (50分)
  
+ [课程综合设计](http://www.liuchaos.cn/Mycourse/AutoControl/Homework/Final_work02.html) (20分)
+ 
 ---
 
 ### 课程讨论
