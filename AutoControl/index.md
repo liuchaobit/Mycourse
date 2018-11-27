@@ -44,6 +44,8 @@
  
  [平时作业一：传递函数与稳态误差](Homework/AC_Quiz_1.pdf) （5分）
  
+ [平时作业二：根轨迹](Homework/AC_Quiz_2.pdf) （5分）
+ 
  [重修——课程综合设计](http://www.liuchaos.cn/Mycourse/AutoControl/Homework/Final_work01.html) (50分)
  
  [课程综合设计](http://www.liuchaos.cn/Mycourse/AutoControl/Homework/Final_work02.html) (20分)
