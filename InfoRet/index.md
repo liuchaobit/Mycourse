@@ -36,7 +36,7 @@
 
 [2] [学术/学位论文评析](Homework/Work_2.md)  （25分）
 
-[3] [【毕设联动】——参考文献搜集](Homework/Work_2.md)  （10分）
+[3] [【毕设联动】——参考文献搜集](Homework/Work_3.md)  （10分）
 
 [4] [【毕设联动】——撰写毕业实设计研究内容的综述](Homework/Final_work.md)  （50分）
 
