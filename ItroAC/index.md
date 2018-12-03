@@ -37,7 +37,7 @@
 
 [谈谈自己对自动化设备的认识](homework/work_02.md) （10分）
 
-[课程论文](homework/Final_work.md) （10分）
+[课程论文](homework/Final_work.md) （50分）
 
 
 ---
