@@ -46,6 +46,8 @@
  
  [平时作业二：根轨迹](Homework/AC_Quiz_2.pdf) （5分）
  
+ [平时作业三：Bode图与Nyquist图](Homework/AC_Quiz_3.pdf) （5分）
+ 
  [小组项目二：系统的频域分析](Homework/Teamwork_02.md) (15分)
  
  [重修——课程综合设计](http://www.liuchaos.cn/Mycourse/AutoControl/Homework/Final_work01.html) (50分)
