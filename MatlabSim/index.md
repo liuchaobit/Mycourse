@@ -6,7 +6,7 @@
 
 ### 课程简介
 
-《自动化专业导论》课程介绍了自动化技术的含义、发展历史与实际应用领域，自动化新技术，自动化专业特点，自动化相关领域的发展方向，相关专业学生发展前景等内容。
+《Matlab系统建模与仿真》课程介绍了科学数值计算问题的MATLAB实现方法，包括MATLAB基础知识、MATLAB矩阵处理、MATLAB程序流程控制、MATLAB绘图、数据分析与多项式计算、数值微积分与方程求解、MATLAB符号计算、MATLAB图形用户界面设计、Simulink系统仿真等。
 
 ---
 
@@ -24,20 +24,14 @@
 
 ### 课程资料
 
-[1] [Your College Degree is Worthless](Materials/Your_College_Degree_is_Worthless.pdf)
 
-[2] [我国古代自动装置的原理分析及其成就的探讨](Materials/On_certai_automatic_equipments_in_ancient_china.pdf)
 
 ---
 
 ### 课程作业
 
 
-[谈谈自己的大学规划](homework/work_01.md) （10分）
 
-[谈谈自己对自动化设备的认识](homework/work_02.md) （10分）
-
-[课程论文](homework/Final_work.md) （50分）
 
 
 ---
@@ -50,15 +44,6 @@
 
 ### 扩展资料
 
-[1] [东南大学公开课：自动化专业导论](http://open.163.com/special/cuvocw/zidonghuadaolun.html).
-
-[2] [西安交通大学公开课：自动化专业导论](http://open.163.com/special/cuvocw/zidonghuazhuanye.html)
-
-[3] [知乎-自动化到底是干什么的？](https://zhuanlan.zhihu.com/p/24199406)
-
-[4] [知乎-自动化专业出身的你现在在做什么？](https://www.zhihu.com/question/40034082)
-
-[5] [知乎-自动化专业的路该怎么走？](https://www.zhihu.com/question/67928448)
 
 
 ---
