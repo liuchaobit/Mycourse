@@ -10,7 +10,9 @@
 
 1.利用冲激信号的性质计算下列各式：
 
-  a) $^ { ( 2 ) } \int _ { - \infty } ^ { \infty } \delta ( t - 2 ) \mathrm { e } ^ { - 2 t } u ( t ) \mathrm { d } t$
+  a) $$^ { ( 2 ) } \int _ { - \infty } ^ { \infty } \delta ( t - 2 ) \mathrm { e } ^ { - 2 t } u ( t ) \mathrm { d } t$$
+  
+  b)
 
 
 
