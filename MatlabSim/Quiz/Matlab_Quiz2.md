@@ -31,3 +31,7 @@ $$，求$$t=2s$$时$$y$$的值。
 
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"> </script>
+
+---
+
+注意：作业评完分数后，请在[作业提交](https://www.wjx.top/jq/36994374.aspx)中以学号命名文件上传系统，多个文件请压缩后上传。
