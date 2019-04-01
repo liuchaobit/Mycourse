@@ -32,6 +32,8 @@
 
 [1] 课堂练习1 [pdf](Quiz/Matlab_Quiz1.pdf)
 
+[2] 课堂练习2（5分） [课程作业](Quiz/Matlab_Quiz2.md)
+
 
 
 
