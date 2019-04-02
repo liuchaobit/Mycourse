@@ -34,7 +34,13 @@
 
 [2] 课堂练习2（5分） [课程作业](Quiz/Matlab_Quiz2.md)
 
+---
 
+### 课程项目
+
+[1] 课程项目1-系统建模 [pdf](Project/Matlab_课程项目一.pdf)
+
+[2] Matlab建模与仿真报告模板 [DOC](Project/Matlab建模与仿真报告模板.doc)
 
 
 ---
