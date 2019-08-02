@@ -36,5 +36,7 @@
 
 2、每位同学仅可选择一个选题，可确认一个选题。
 
+3、[已完成选题预览](https://bs.liuchaos.cn/bstitle/blox.php)
+
 ---
 
