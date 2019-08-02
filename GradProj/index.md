@@ -14,6 +14,8 @@
 
 #### 登陆说明：
 
+选题网址：liuchaobit.github.io/Mycourse/GradProj/
+
 登录账号为12位学号20161008xxxx
 
 登录密码是666666
