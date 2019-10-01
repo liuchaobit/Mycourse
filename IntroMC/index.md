@@ -51,3 +51,7 @@
 [2] [测控技术与仪器的主要就业方向和领域发展方向有哪些?](https://www.zhihu.com/question/20090395)
 
 [3] [测控技术与仪器专业和自动化专业有何不同?](https://www.zhihu.com/question/276041425)
+
+---
+
+<script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=46773778&width=760&source=iframe&tm=1&height=652'></script>
