@@ -86,3 +86,7 @@
 
 [3] [自动控制理论的早期发展历史：经典控制理论](Reading/自动控制理论的早期发展历史：经典控制理论.pdf)
 
+
+---
+
+<script type='text/javascript' src='https://www.wjx.top/handler/jqemed.ashx?activity=46773778&width=760&source=iframe&tm=1&height=652'></script>
