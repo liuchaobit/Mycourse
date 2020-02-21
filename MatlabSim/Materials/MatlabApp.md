@@ -10,7 +10,7 @@
  
  matlab 2019b  链接: https://pan.baidu.com/s/1CZb1CVMCHDHYTGbEA6dxNA 提取码: yrc6
  
- 实际上，matlab 2012b即可满足课程需求，大家可自行在网络寻找。
+ 实际上，matlab 2012b之后的版本即可满足课程需求，大家可自行在网络寻找。
  
  * matlab 安装教程：
  
