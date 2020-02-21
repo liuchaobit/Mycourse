@@ -22,4 +22,4 @@
  
  1、对于参加慕课的同学，matlab公司提供了适用于慕课的 MATLAB权限，在课程期间，各位可以使用matlab online进行操作。具体使用流程查看慕课课程公告《MATLAB Online使用说明》。
  
- 2、可以登录https://uzer.me/，注册后进入，可以看到matlab云app。
+ 2、可以登录https://uzer.me/  注册后进入，可以看到matlab云app。
