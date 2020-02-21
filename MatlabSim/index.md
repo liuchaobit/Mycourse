@@ -52,6 +52,8 @@
 
 [1] 张志涌. MATLAB教程[M]. 北京航空航天大学出版社，2018
 
+[2] [Matlab课程软件使用说明 ](Materials/MatlabApp.md)
+
 ---
 
 ### 扩展资料
