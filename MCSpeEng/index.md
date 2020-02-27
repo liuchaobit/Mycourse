@@ -24,7 +24,30 @@
 
 ### 课程资料
 
-[1] [变参数微分方程组求解实例 ](Materials/ODEsolver.md)
+[1] [Unit 1 Measurement, Control and Instrumentation ](CoPPT/unit 1.pptx)
+
+[2] [Unit 2 Data Acquisition ](CoPPT/unit 2.pptx)
+
+[3] [Unit 3 Smart Sensors ](CoPPT/unit 3.pptx)
+
+[4] [Unit 4 Error Principle ](CoPPT/unit 4.pptx)
+
+[5] [Unit 5 Signal Description ](CoPPT/unit 5.pptx)
+
+[6] [Unit 6 Signal Conditioning ](CoPPT/unit 6.pptx)
+
+[7] [Unit 7 Fieldbus ](CoPPT/unit 7.pptx)
+
+[8] [Unit 8 Automatic Control ](CoPPT/unit 8.pptx)
+
+[9] [Unit 9 Microcontroller ](CoPPT/unit 9.pptx)
+
+[10] [Unit 10 Nature of Mechanical Design ](CoPPT/unit 10.pptx)
+
+[11] [Unit 11 Virtual Instrumentation ](CoPPT/unit 11.pptx)
+
+[12] [Unit 12 Artificial Intelligence ](CoPPT/unit 12.pptx)
+
 
 
 ---
