@@ -6,6 +6,8 @@
 
 - [信号与系统](SAS)
 
+- [测控技术与仪器专业英语](MCSpeEng)
+
 - [Matlab系统建模与仿真](MatlabSim)
 
 ---
