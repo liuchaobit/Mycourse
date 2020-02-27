@@ -54,19 +54,13 @@
 
 ### 课程作业
 
-[1] 课堂练习1 [pdf](Quiz/Matlab_Quiz1.pdf)
-
-[2] 课堂练习2（5分） [课程作业](Quiz/Matlab_Quiz2.md)
+[1]  
 
 ---
 
 ### 课程项目
 
-[1] 课程项目1-系统建模 [pdf](Project/Matlab_课程项目一.pdf)
-
-[2] Matlab建模与仿真报告模板 [DOC](Project/Matlab建模与仿真报告模板.doc)
-
-[3] 课程大作业 [pdf](Project/Matlab大作业.pdf)
+[1]  
 
 
 ---
@@ -80,10 +74,7 @@
 
 ### 扩展资料
 
-[1] [Matlab Cody](https://www.mathworks.com/matlabcentral/cody) 
-
-[2] [Matlab Online](https://uzer.me/) 
-
+[1] 
 
 
 ---
