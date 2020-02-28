@@ -48,6 +48,12 @@
 
 [12] [Unit 12 Artificial Intelligence ](CoPPT/unit 12.pptx)
 
+[13] [专业英语的特点 ](Material/专业英语的特点.pdf)
+
+[14] [学术英语写作 ](Material/学术英语写作.pdf)
+
+[15] [常用符号与表达式 ](Material/常用符号与表达式.pdf)
+
 
 
 ---
