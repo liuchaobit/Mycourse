@@ -12,9 +12,9 @@
 
 ### 课程评价标准
 
-|考核环节 | 课堂考勤 | 平时作业|小组项目|综合设计|期末考试|合计|
+|考核环节 | 课堂考勤 | 课堂互动|课程作业|阶段测验|系统分析实验|期末考试|合计|
 |---|---|---|---|---|---|---|
-|分值| 5| 15|30|20|30|100|
+|分值| 5| 5|20|10|20|40|100|
 
 
 
@@ -38,27 +38,13 @@
 
 ### 课程作业
 
- [小组项目一：系统建模与时域分析](Homework/Teamwork_01.md) (15分)
- 
- [课程作业模板](Materials/课程作业模板.doc)
- 
- [平时作业一：传递函数与稳态误差](Homework/AC_Quiz_1.pdf) （5分）
- 
- [平时作业二：根轨迹](Homework/AC_Quiz_2.pdf) （5分）
- 
- [平时作业三：Bode图与Nyquist图](Homework/AC_Quiz_3.pdf) （5分）
- 
- [小组项目二：系统的频域分析](Homework/Teamwork_02.md) (15分)
- 
- [重修——课程综合设计](http://www.liuchaos.cn/Mycourse/AutoControl/Homework/Final_work01.html) (50分)
- 
- [课程综合设计](http://www.liuchaos.cn/Mycourse/AutoControl/Homework/Final_work02.html) (20分)
+
  
 ---
 
 ### 课程讨论
 
- [讨论1:根轨迹及其性质](TalkTopic/Topic_01.md) 
+
 
 ---
 
